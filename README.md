@@ -1,7 +1,7 @@
 # orla toland
 
 ## artist 
-/assets/images/IMG_5248.JPEG
+/main/assets/images/IMG_5248.JPEG
 
 
 
