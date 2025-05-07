@@ -1,7 +1,7 @@
 # orla toland
 
 ## artist 
-/assets/images/electrocat.png
+/assets/images/IMG_5248.JPEG
 
 
 
